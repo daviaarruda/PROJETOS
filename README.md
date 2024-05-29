@@ -1,16 +1,33 @@
-# PROJETOS
-INSTRUÇÕES DE USO
-Desenvolver um artefato interativo para autistas não verbais,visando minimizar os danos 
+# PROJETOS #
+
+MANUAL DE USO
 
 Descrição:
-Palavrinhas mágicas é um aterfato interativo feito para ajudar autistas não verbais na primeira infância,visto que,devido a condição deles a fala costuma ser desenvolvida mais tarde, em comparação as pessoas que não possuem essa condição.Devido a este fato as crianças chegam na escola 
+Palavrinhas Mágicas é um brinquedo interativo feito para ajudar autistas não-verbais na primeira infância.
 
-1.Funcionamento
-Neste artefato interativo,temos várias cartas que correspondem a determinada categoria como,frutas,partes do corpo,números,necessidades e emoções,foram gravadas algumas palavras com o uso de um gravador que ficará na parte interior da caixa.Pressionando o botão correspondente a categoria acima dele,a sua led irá se ascender e então algums palarvas relacionadas a categoria ao qual foi pressionada,sairão através de um mini amplificador que emitirá o som das palavras gravadas.
+1. Funcionamento
 
-2.Personalize do seu jeito
-este artefato possui a habilidade de ganhar palavras novas e categorias novas, como funciona? simples! junto ao artefato estará um saquinho com cartas em brancos, dando a possibilidade de desenhar novas categorias. além disso na lateral do artefato tem um botão e ao lado dele um microfone,quando o botão for pressionado é so dizer as palavras,ao soltar as palavras ficarão gravadas.
+Neste artefato interativo, existem cartas que correspondem a determinada categoria, como: frutas, partes do corpo, números, necessidades e emoções. Ao o botão correspondente a categoria acima dele, a led irá acender e então palavras relacionadas a categoria correspondente serão proferidas através de um mini amplificador, que emitirá o som das palavras gravadas.
 
-3.Manutenção 
+2. Personalize do seu Jeito
 
+Esse artefato possui a habilidade de ganhar palavras novas e categorias novas. Como funciona? Simples! Junto ao artefato, além das categorias pré-estabelecidas, estará também disponível um saquinho com cartas em branco, dando a possibilidade de desenhar novas categorias. Além disso, na lateral do artefato existe um botão e ao lado dele um microfone. Assim, quando o botão for pressionado, é possível gravar novas palavras referentes à nova categoria criada
+
+3.
+
+Equipe
+
+Ciência da Comptação:
+Arthur Leal
+Beatriz Galindo
+Davi Arruda
+Jõao Vitor
+Maria Fernanda 
+Sofia Tenório
+
+Design:
+Gabriel Sousa
+Marco Antonio
+Mariana Amora
+Yasmim Camille
 
