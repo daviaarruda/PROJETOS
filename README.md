@@ -13,8 +13,18 @@ Neste artefato interativo, existem cartas que correspondem a determinada categor
 
 Esse artefato possui a habilidade de ganhar palavras novas e categorias novas. Como funciona? Simples! Junto ao artefato, além das categorias pré-estabelecidas, estará também disponível um saquinho com cartas em branco, dando a possibilidade de desenhar novas categorias. Além disso, na lateral do artefato existe um botão e ao lado dele um microfone. Assim, quando o botão for pressionado, é possível gravar novas palavras referentes à nova categoria criada
 
-3.
+3.Como instalar o código
 
+Primeiro passo:
+
+Precisaremos que baixe o programa arduino IDE.
+
+ Segundo passo:
+ 
+ Junto ao artefato enviamos também um drive com o código necessário para que o artefato funcione, basta copiar e colar no arduino IDE.
+ 
+ 4.Como funciona o código
+ 
 Equipe
 
 Ciência da Comptação:
