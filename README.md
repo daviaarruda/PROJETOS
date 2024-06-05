@@ -19,12 +19,10 @@ Primeiro passo:
 
 Precisaremos que baixe o programa arduino IDE.
 
- Segundo passo:
+Segundo passo:
  
- Junto ao artefato enviamos também um drive com o código necessário para que o artefato funcione, basta copiar e colar no arduino IDE.
- 
- 4.Como funciona o código
- 
+Junto ao artefato enviamos também um drive com o código necessário para que o artefato funcione, basta copiar e colar no arduino IDE.
+  
 Equipe
 
 Ciência da Comptação:
