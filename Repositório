@@ -1,0 +1,27 @@
+#CÓDIGOS 14/05/2024
+int leds[5] = {2,3,4,5,6};
+int botoes[5] = {7,8,9,10,11};
+bool state;
+
+void setup() {
+  for (int i = 0; i < 5; i++){
+    pinMode(leds[i], OUTPUT);
+  }
+  for (int i = 0; i < 5; i++){
+    pinMode(botoes[i], INPUT_PULLUP);
+  }
+}
+
+void loop() {
+  for (int i = 0; i < 5; i++){
+  	state = digitalRead(botoes[i]);
+    if (!state){
+      digitalWrite(leds[i], HIGH);
+    } else{
+      digitalWrite(leds[i], LOW);
+    }
+  }
+
+
+}
+
