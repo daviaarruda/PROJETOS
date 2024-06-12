@@ -134,5 +134,41 @@ void loop() {
 
 }
 
+CÓDIGOS 11/06/2024
+
+int btn2 = 6;
+int led2 = 3;
+int play = 2;
+int state2;
+
+
+
+
+
+
+
+
+void setup() {
+  Serial.begin(9600);
+  pinMode(btn2, INPUT_PULLUP);
+  pinMode(led2, OUTPUT);
+  pinMode(play, OUTPUT);
+
+}
+
+void loop() {
+
+
+  state2 = digitalRead(btn2);
+  //Serial.println(state2);
+  if (!state2){
+    digitalWrite(led2, HIGH);
+    digitalWrite(play, HIGH);
+  }else{
+    digitalWrite(led2, LOW);
+    digitalWrite(play, LOW);
+  }
+
+}
 
 
